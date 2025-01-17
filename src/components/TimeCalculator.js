@@ -71,7 +71,12 @@ function TimeCalculator({ days }) {
       
   
     return (
-      <div className="table-container">
+      <div className='table-container'>
+        <div className='table-header'>
+          <h1>
+            Weekly Hours Calculator
+          </h1>
+        </div>
         <table>
           <thead>
             <tr>

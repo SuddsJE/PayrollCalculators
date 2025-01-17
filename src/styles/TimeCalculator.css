@@ -1,9 +1,13 @@
+.table-header {
+  text-align: center;
+}
 /* Container for the table */
 .table-container {
     display: flex;
     justify-content: center;
     margin: 20px;
   }
+
   
   /* Style the table */
   table {
